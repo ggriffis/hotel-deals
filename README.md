@@ -34,6 +34,9 @@ Ideas for Future Iterations
 1) Add tests for specific data in particular columns.
 2) Use the Geocoder gem or something similar to search for hotel deals near a particular address or near the ip address of the user.  However, to do this I believe it would be necessary to have access to all of the deals to check if each one's coordinates were near to the coordinates of the given address or ip address
 
+Screenshot of homepage
+----------------------
+
 ![Image](https://raw.github.com/ggriffis/hotel-deals/master/app/assets/images/Homepage.png)
 
 
