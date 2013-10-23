@@ -6,6 +6,7 @@ This app will consume an API of hotel deals and display them.  More specifically
 
 Heroku Deployment
 -----------------
+http://expediaginger.herokuapp.com/
 
 How to run the app from your local sandbox
 ------------------------------------------
