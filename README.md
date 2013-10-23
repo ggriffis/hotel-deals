@@ -2,7 +2,7 @@
 Thank you for the opportunity to work on this coding challenge!
 ===============================================================
 
-This app will read in JSON from http://deals.expedia.com/beta/deals/hotels.json, parse the JSON and display the hotel deals that it delivers.  It will also allow the user to search the hotel deals on various criteria.
+This app will consume an API of hotel deals and display them.  More specifically, it will read in JSON from http://deals.expedia.com/beta/deals/hotels.json, parse the JSON and display the hotel deals that it delivers.  It will also allow the user to search the hotel deals on various criteria.
 
 Heroku Deployment
 =================
